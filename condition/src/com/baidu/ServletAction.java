@@ -5,6 +5,4 @@ public class ServletAction {
 
 	}
 
-	public void get() {
-	}
 }
