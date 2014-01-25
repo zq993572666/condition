@@ -4,4 +4,7 @@ public class ServletAction {
 	public ServletAction() {
 
 	}
+
+	public void get() {
+	}
 }
